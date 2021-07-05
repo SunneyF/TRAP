@@ -6,8 +6,9 @@ Number of time periods is 16 for all instances.
  <img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_{j}">
 Following sets can be obtained from Constant_data:
 
-<img src="https://render.githubusercontent.com/render/math?math=\mathcal{J}">:Set of Job Types 
-<img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_{j}">:Set of machines capable, but not qualified for a job j
+1. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{J}">:Set of Job Types 
+2. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{K}_{j}">:Set of machine capable of performing job type j
+3. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_{j}">:Set of machines capable, but not qualified for a job j
 
  
  
