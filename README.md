@@ -1,4 +1,4 @@
-Data files for public instances of the _tactical resource allocation problem_ (TRAP). For more information contact xxx@chalmers.se, sunney@chalmers.se. For using these instances, you should cite
+Data files for public instances of the _tactical resource allocation problem_ (TRAP). For more information contact sunney@chalmers.se. For using these instances, you should cite
 `Fotedar,S., Strömberg,A.-B., Almgren,T. Bi-objective optimization of the tactical allocation of job types to machines. Mathematical modelling, theoretical analysis, and numerical tests.`
 
 # Constant_data
