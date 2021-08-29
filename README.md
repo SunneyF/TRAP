@@ -1,9 +1,9 @@
-Data files for public instances of the _tactical resource allocation problem_ (TRAP). For more information contact sunney@chalmers.se. For using these instances, you should cite
+Data files for public instances of the _tactical resource allocation problem_ (TRAP). For more information contact anstr@chalmers.se / sunney@chalmers.se. For using these instances, you should cite
 `Fotedar,S., Strömberg,A.-B., Almgren,T. Bi-objective optimization of the tactical allocation of job types to machines. Mathematical modelling, theoretical analysis, and numerical tests.`
 
 # Constant_data
 Number of time periods is 16 for all instances.
- <img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_{j}">
+
 Following sets can be obtained from Constant_data:
 
 1. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{J}">:Set of Job Types 
