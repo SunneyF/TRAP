@@ -5,7 +5,7 @@ Data files for public instances of the _tactical resource allocation problem_ (T
 Number of time periods is 16 for all instances.
 
 Following sets can be obtained from Constant_data:
-
+$\mathcal{J}$
 1. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{J}">:Set of Job Types 
 2. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{K}_{j}">:Set of machine capable of performing job type j
 3. <img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_{j}">:Set of machines capable, but not qualified for a job j
